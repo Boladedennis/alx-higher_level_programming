@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def square_values(matrix):
   squared_matrix = []
   for row in matrix:
